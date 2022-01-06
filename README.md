@@ -1,16 +1,12 @@
-# hayvanlar
+# animals
 
-A new Flutter application.
+The project I have designed has been designed for children so that they can learn both the sounds and appearances of animals.
 
-## Getting Started
+##  contents
+Within the scope of this project, the project consists of two dart files. The first page consists of the main page content, and the second page creates the sounds and images of the animals in the application.
 
-This project is a starting point for a Flutter application.
+On the homepage, there is a general purpose animal picture and a button to provide the transition to the other page.
+On the second page, there are pictures of nine animals and their sounds.
+On the homepage, there is a general purpose animal picture and a button to provide the transition to the other page.
+On the second page, there are pictures of nine animals and their sounds.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
